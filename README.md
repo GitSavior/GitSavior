@@ -11,16 +11,10 @@ As a recent graduate, I bring forth a profound enthusiasm for technology coupled
 Through my journey in computer science, I've discovered a profound fascination with cybersecurity, igniting within me an unwavering passion for the field. Now, I stand poised and eager to make the transition, driven by my insatiable curiosity and determination to excel in the realm of cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Simulating threats, defenses, and responses.     | <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Home Detection Lab</a>|
 
 ## Tools
 
@@ -39,6 +33,8 @@ Through my journey in computer science, I've discovered a profound fascination w
     <img src="https://img.shields.io/badge/-Ping-00FF00?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-FoxyProxy-FF6600?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-ProxyChains-00A4EF?&style=for-the-badge" />
+    <a href="https://www.splunk.com" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+
 </div>
 
 ### Remote Access Tools
@@ -109,5 +105,5 @@ Through my journey in computer science, I've discovered a profound fascination w
 </div>
 
 ## Projects
-- <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Home Detection Lab</a>
+
