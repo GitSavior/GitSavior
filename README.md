@@ -14,7 +14,7 @@ Through my journey in computer science, I've discovered a profound fascination w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Simulating threats, defenses, and responses.     | <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Home Detection Lab</a>|
+| Simulating threats, defenses, and responses.     | <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab Project</a>|
 
 ## Tools
 
@@ -105,5 +105,5 @@ Through my journey in computer science, I've discovered a profound fascination w
 </div>
 
 ## Projects
-- <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Home Detection Lab</a>
+- <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab Project</a>
 
