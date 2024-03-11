@@ -89,7 +89,7 @@ Through my journey in computer science, I've discovered a profound fascination w
 
 ### Note Taking
 <div>
-     <img src="https://img.shields.io/badge/-Cherrytree-FF007F?&style=for-the-badge" />
+     <a href="https://www.giuspen.net/cherrytree/"><img src="https://img.shields.io/badge/-Cherrytree-FF007F?&style=for-the-badge" /></a>
 </div>
 
 ## Certifications
