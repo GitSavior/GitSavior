@@ -105,5 +105,7 @@ Through my journey in computer science, I've discovered a profound fascination w
 </div>
 
 ## Projects
+<div>
 <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab Project</a>
 <a href="https://github.com/GitSavior/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+</div>
