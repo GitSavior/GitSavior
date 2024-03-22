@@ -15,7 +15,7 @@ Through my journey in computer science, I've discovered a profound fascination w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Simulating threats, defenses, and responses.     | <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab Project</a>|
-
+| Wazuh instance with Soar integration and case management using theHive| <a href="https://github.com/GitSavior/SOC-Automation-Project/tree/main">SOC Automation Project</a>
 ## Tools
 
 ### Operation Systems
@@ -106,4 +106,4 @@ Through my journey in computer science, I've discovered a profound fascination w
 
 ## Projects
 <a href="https://github.com/GitSavior/Detection-Lab/tree/main">Detection Lab Project</a>
-
+<a href="https://github.com/GitSavior/SOC-Automation-Project/tree/main">SOC Automation Project</a>
