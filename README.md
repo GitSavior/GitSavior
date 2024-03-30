@@ -4,7 +4,10 @@
 <a href="https://tryhackme.com/p/Astute" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-F04923?&style=for-the-badge" />
 </div>
 <br>
-As a recent graduate, I bring forth a profound enthusiasm for technology coupled with an unwavering commitment to tackling intricate challenges head-on.
+Hi, I'm Jonathan. Nice to meet you! I recently finished studying cybersecurity in college. Ever since I was young, I've been super curious about how things work. Computers and technology have always fascinated me, especially video games. From board games to computer games, I've always loved figuring out how they tick.
+I'm a bit of a perfectionist, you see. When I'm interested in something, I dive right in and explore every little detail. But it's not just tech stuff that interests me. I love learning about all sorts of things, from DIY construction to how everyday items are made. It's like solving a mystery!
+Now, about cybersecurity—it's become a real passion of mine. I've studied all sorts of things, like finding weaknesses in systems, analyzing security threats, and making sure everything's safe online. It's not always easy, but I love the challenge.
+So, that's me! A curious person who loves technology and learning new things. I'm excited to see where life takes me next!
 
 ## Objective
 
