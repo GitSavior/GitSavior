@@ -11,7 +11,7 @@ So, that's me! A curious person who loves technology and learning new things. I'
 
 ## Objective
 
-Through my journey in computer science, I've discovered a profound fascination with cybersecurity, igniting within me an unwavering passion for the field. Now, I stand poised and eager to make the transition, driven by my insatiable curiosity and determination to excel in the realm of cybersecurity.
+My goal is to showcase my abilities by working on numerous projects across different cybersecurity domains. Depending on how the landscape shifts over time, so will my github. For now, I will be covering these domains: network security, application security, information security, data security, endpoint security, cloud security, identity and access management (IAM), security operations, governance, risk, and compliance (GRC), and cryptography. Projects will be updated and altered to be as closely aligned with the domains as possible. 
 
 ## Skills
 
